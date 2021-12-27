@@ -7,4 +7,4 @@ Documentation/Clean_Dataset_and_create_depth_map.ipynb = Notebook indem Dataset 
 
 https://drive.google.com/file/d/1XH1z39KGSnTI5oxCnhJufiiBjVrQSXip/view?usp=sharing = Unser selber zusammengestelltes Dataset, noch ohne Depth Map
 
-"https://colab.research.google.com/drive/17eTdESZ6hC2YcD92mrazYgOS9envwmr_" oder Landscape_to_Fantasy.ipynb = Endprodukt: Notebook, um Model ausprobieren
+https://colab.research.google.com/drive/17eTdESZ6hC2YcD92mrazYgOS9envwmr_ oder Landscape_to_Fantasy.ipynb = Endprodukt: Notebook, um Model ausprobieren
